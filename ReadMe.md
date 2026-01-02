@@ -130,10 +130,3 @@ For major changes, open an issue first.
 
 ---
 
-## 📜 **License**
-
-MIT License.
-
----
-
-If you want, I can customize this README for **your project name, features, screenshots, badges, GitHub actions, or a better professional style**.
